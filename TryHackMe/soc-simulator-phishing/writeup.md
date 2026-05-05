@@ -61,3 +61,9 @@ Documentei cada alerta com as evidências coletadas tentando usar as boas práti
 O feedback da plataforma indicou que os campos Who e Where 
 precisam de mais detalhe nos reports — identificar com mais 
 precisão o usuário afetado e o sistema de origem em cada alerta.
+
+---
+
+## MITRE ATT&CK
+- T1566.001 — Phishing: Spearphishing Link  
+- T1071 — Application Layer Protocol (comunicação com C2 via HTTP)
