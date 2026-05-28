@@ -7,3 +7,4 @@ Portfólio prático de Blue Team e SOC Analysis.
 | Lab | Plataforma | Categoria | Write-up |
 |-----|-----------|-----------|---------|
 | SOC Simulator — Phishing | TryHackMe | SIEM / Triage | [ver](./TryHackMe/soc-simulator-phishing/writeup.md) |
+| The Greenholt Phish | TryHackMe | Phishing Analysis | [ver](./TryHackMe/the-greenholt-phish/writeup.md) |
